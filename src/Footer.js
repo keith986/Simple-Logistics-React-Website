@@ -36,7 +36,7 @@ const Footer = () => {
           </ul>
           <br/>
       </div>
-      </div>
+    </div>
     
       <div className='adv'>
       <hr/>
